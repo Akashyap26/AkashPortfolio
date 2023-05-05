@@ -16,13 +16,13 @@ Mar 2022 - Nov 2022
 
 ## Data Science projects 
 
-(Twitter Scrapping)[https://github.com/Akashyap26/TwitterScrapping]
+### (Twitter Scrapping)[Akashyap26/TwitterScrapping]
 snscrape is a scraper for social networking services (SNS). It scrapes things like user profiles, hashtags, or searches and returns the discovered items, e.g. the relevant posts.snscrape is a scraper for social networking services (SNS). It scrapes things like user profiles, hashtags, or searches and returns the discovered items, e.g. the relevant posts.
 
-(OCR- Using EasyOCR)[https://github.com/Akashyap26/BizCardX_OCR]
+### (OCR- Using EasyOCR)[Akashyap26/BizCardX_OCR]
 Welcome to my Optical Character Recognition application🤗 EasyOCR, as the name suggests, is a Python package that allows computer vision developers to effortlessly perform Optical Character Recognition.
 
-(BrestCancer Classification Model)[https://github.com/Akashyap26/BrestCancerDetection]
+### (BrestCancer Classification Model)[Akashyap26/BrestCancerDetection]
 In this study, my task is to classify tumors into malignant (cancerous) or benign (non-cancerous) using features obtained from several cell images.Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.
 
 ## Skills
