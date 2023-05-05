@@ -1,27 +1,25 @@
-#H1Data Scientist - Akash Kashyap 
-
 https://www.markdownguide.org/cheat-sheet/
 
 
-##H2Education
+## Education
 1.Bachelor of Computer Applications (BCA) from [Seshdripuram College Bengaluru],[2019]
 2.Masters of Computer Applications from [Jain University(online)], [Final Year - Expected Completeion Nov’23]
 
-##H3Work Experiance
-##IT Analyst at Atria Power, Bangalore
+## Work Experiance
+### IT Analyst at Atria Power, Bangalore
 Oct 2019 - Nov 2021
 -provided technical support for Our site level engineers Collaborated with teams to optimize the Availability of our Power Plants
 - Advance Excel, Python, and Visualization
 - Prepared Reports for Management Level on Quarterly, Month, and week
 
-##Network Support Engineer at CSS Corp, Chennai 
+### Network Support Engineer at CSS Corp, Chennai 
 Mar 2022 - Nov 2022
 - Worked on medium and Low priority issues on a palo alto firewall network Support engineer profile (US clients)
 - Palo Alto Project
 
-#Data Science project
+# Data Science project
 
-##Twitter Scrapping
+## Twitter Scrapping
 
 ##OCR- Using EasyOCR
 
