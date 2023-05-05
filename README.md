@@ -2,45 +2,49 @@
 
 https://www.markdownguide.org/cheat-sheet/
 
-Name: Akash Kashyap
-Contact Information:
-Email: APakashk26@gmail.com
+[Reach Me here!!](APakashk26@gmail.com)
 
-Objective:
-● To obtain a challenging position in the field of technology operations that utilizes my
-technical skills, analytical abilities, and experience to contribute to the growth of the
-organization.
 
-Education:
-● Bachelor of Computer Applications (BCA) from [Seshdripuram College Bengaluru],
-[2019]
-● Masters of Computer Applications from [Jain University(online)], [Final Year - Expected
-Completeion Nov’23]
+#Education
+1.Bachelor of Computer Applications (BCA) from [Seshdripuram College Bengaluru],[2019]
+2.Masters of Computer Applications from [Jain University(online)], [Final Year - Expected Completeion Nov’23]
 
-Skills:
-● Proficient in Microsoft Office Suite (Word, Excel, PowerPoint)
-● Knowledgeable in database management systems such as MySQL and MongoDB
-● Familiarity with programming languages such as C++,HTML5 and Python
-● Experience with customer support and troubleshooting technical issues
-● Experiance in Deep Working and Troubleshooting on Windows and linux Systems
-● Basic Creative Skills on Adobe Suite (Photoshop , Premiere Pro)
-● Basic Colour Correction and Video Creation Knowledge on daVinci Resolve
+#Work Experience:
+##IT Analyst at Atria Power, Bangalore
+Oct 2019 - Nov 2021
+-provided technical support for Our site level engineers Collaborated with teams to optimize the Availability of our Power Plants
+- Advance Excel, Python, and Visualization
+- Prepared Reports for Management Level on Quarterly, Month, and week
 
-Work Experience:
-● IT analyst/Tech Opps [Atria Power], [10/2019 to 11/2021 ]
-● Managed day-to-day operations and provided technical support for Our site level
-engineers
-● Collaborated with cross-functional teams to optimize the Availability of our Power Plants
-● Maintained technical documentation and training materials for new and existing
-employees
-● Provided customer support and troubleshooting for technical issues
-Internship at [Atria Power], [10/2019 to 03/2020 ]
-● Assisted the technology operations team with day-to-day tasks
-● Created technical documentation and training materials for new employees
-● Assisted site engineers troubleshooting technical issues
+##Network Support Engineer at CSS Corp, Chennai 
+Mar 2022 - Nov 2022
+- Worked on medium and Low priority issues on a palo alto firewall network Support engineer profile (US clients)
+- Palo Alto Project
 
-Certifications:
-● [Python Programming], [B.I.N.T], [2019]
+#Data Science project
 
-Languages:
-Fluent in [English,Kannada,Hindi]Proficient in [English,Kannada,Hindi]
+##Twitter Scrapping
+
+##OCR- Using EasyOCR
+
+##BrestCancer Detection Model
+
+##BlackCoffer - Webscrapping using Beatiful soup
+
+#Skills
+- Data Structures and Algorithms
+- Statistical Models and Deep Learning Models
+- MYSQL and MongoDB
+- Python (Pandas, Numpy, sci-kit learn,nltk, Web scrapping (Snsscrapper, Beautiful soap))
+- Visualization (matplotlib, Plotly, Seaborn)
+- Machine Learning (Supervised and Unsupervised)
+- Supervised - Decision_Tree, KNN, Logistic Regression, Naive Bayes, SVM
+- Unsupervised- Hierarchical Clustering, K-Means_Clustering   
+
+
+
+
+
+#Certifications:
+##Data Science from GUVI, Online
+Sep 2022 - Feb 2023
