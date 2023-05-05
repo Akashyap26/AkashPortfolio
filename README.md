@@ -1,15 +1,13 @@
-#Data Scientist - Akash Kashyap 
+#H1Data Scientist - Akash Kashyap 
 
 https://www.markdownguide.org/cheat-sheet/
 
-[Reach Me here!!](APakashk26@gmail.com)
 
-
-#Education
+##H2Education
 1.Bachelor of Computer Applications (BCA) from [Seshdripuram College Bengaluru],[2019]
 2.Masters of Computer Applications from [Jain University(online)], [Final Year - Expected Completeion Nov’23]
 
-#Work Experience:
+##H3Work Experiance
 ##IT Analyst at Atria Power, Bangalore
 Oct 2019 - Nov 2021
 -provided technical support for Our site level engineers Collaborated with teams to optimize the Availability of our Power Plants
