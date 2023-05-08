@@ -23,7 +23,7 @@
 - Unsupervised- Hierarchical Clustering, K-Means_Clustering   
 
 ## Certifications:
-<a href="www.guvi.in/verify-certificate?id=6Z083E3T1kl56f0uL0"> **Data Science from GUVI, Online** <a>
+<a href="www.guvi.in/verify-certificate?id=6Z083E3T1kl56f0uL0"> Data Science from GUVI, Online<a>
 
 ## Work Experiance
 ### IT Analyst at Atria Power, Bangalore
