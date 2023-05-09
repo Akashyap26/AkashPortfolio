@@ -11,6 +11,11 @@
 <a href="https://github.com/Akashyap26/BrestCancerDetection"> BrestCancer Classification Model<a> 
   
 *In this study, my task is to classify tumors into malignant (cancerous) or benign (non-cancerous) using features obtained from several cell images.Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.*
+ 
+ <a href="https://github.com/Akashyap26/INSAID-Fraud-detection-model-Decision-Tree-"> INSAID - Fraud Detection Model with Decision Tree<a> 
+  
+  *This repository contains code for a fraud detection model using a decision tree algorithm. The model is trained on a dataset of transactions and uses features such as transaction amount, location, and time to predict whether a transaction is fraudulent or not.*
+ 
 
 ## Skills
 - Data Structures and Algorithms
