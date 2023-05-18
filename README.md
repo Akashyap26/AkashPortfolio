@@ -1,12 +1,4 @@
 ## Data Science projects 
-
-<a href="https://github.com/Akashyap26/TwitterScrapping"> Twitter Scrapping<a> 
- 
-*snscrape is a scraper for social networking services (SNS). It scrapes things like user profiles, hashtags, or searches and returns the discovered items, e.g. the relevant posts.snscrape is a scraper for social networking services (SNS). It scrapes things like user profiles, hashtags, or searches and returns the discovered items, e.g. the relevant posts.*
-  
-<a href="https://github.com/Akashyap26/BizCardX_OCR"> OCR using EasyOCR<a> 
-
-  *Welcome to my Optical Character Recognition application🤗 EasyOCR, as the name suggests, is a Python package that allows computer vision developers to effortlessly perform Optical Character Recognition.*
   
 <a href="https://github.com/Akashyap26/BrestCancerDetection"> BrestCancer Classification Model<a> 
   
@@ -15,6 +7,19 @@
  <a href="https://github.com/Akashyap26/INSAID-Fraud-detection-model-Decision-Tree-"> INSAID - Fraud Detection Model with Decision Tree<a> 
   
   *This repository contains code for a fraud detection model using a decision tree algorithm. The model is trained on a dataset of transactions and uses features such as transaction amount, location, and time to predict whether a transaction is fraudulent or not.*
+  
+  <a href="https://github.com/Akashyap26/WebScrapping--Sentiment-Analysis-BlackCoffer"> BlackCoffer - Sentiment analysis with custom Stopwords neg and positive words
+   
+*sentiment analysis, adept at utilizing custom stop words to enhance accuracy. Proficient in natural language processing techniques, machine learning algorithms, and text mining. Skilled in extracting meaningful insights from textual data, enabling businesses to make data-driven decisions. Passionate about leveraging advanced techniques to understand and analyze sentiments effectively.*
+   
+
+<a href="https://github.com/Akashyap26/TwitterScrapping"> Twitter Scrapping<a> 
+ 
+*snscrape is a scraper for social networking services (SNS). It scrapes things like user profiles, hashtags, or searches and returns the discovered items, e.g. the relevant posts.snscrape is a scraper for social networking services (SNS). It scrapes things like user profiles, hashtags, or searches and returns the discovered items, e.g. the relevant posts.*
+  
+<a href="https://github.com/Akashyap26/BizCardX_OCR"> OCR using EasyOCR<a> 
+
+  *Welcome to my Optical Character Recognition application🤗 EasyOCR, as the name suggests, is a Python package that allows computer vision developers to effortlessly perform Optical Character Recognition.*
  
 
 ## Skills
