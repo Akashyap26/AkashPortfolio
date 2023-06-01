@@ -1,4 +1,8 @@
 ## Data Science projects 
+
+<a href ="https://github.com/Akashyap26/Computer-Vision-projects/tree/main"> Computer Vision Projects<a>
+  
+  GitHub folder containing a computer vision project code and resources for image analysis, object detection, and visual recognition.
   
 <a href="https://github.com/Akashyap26/BrestCancerDetection"> BrestCancer Classification Model<a> 
   
@@ -8,7 +12,7 @@
   
   *This repository contains code for a fraud detection model using a decision tree algorithm. The model is trained on a dataset of transactions and uses features such as transaction amount, location, and time to predict whether a transaction is fraudulent or not.*
   
-  <a href="https://github.com/Akashyap26/WebScrapping--Sentiment-Analysis-BlackCoffer"> BlackCoffer - Sentiment analysis with custom Stopwords neg and positive words
+  <a href="https://github.com/Akashyap26/WebScrapping--Sentiment-Analysis-BlackCoffer"> BlackCoffer - Sentiment analysis with custom Stopwords neg and positive words<a>
    
 *sentiment analysis, adept at utilizing custom stop words to enhance accuracy. Proficient in natural language processing techniques, machine learning algorithms, and text mining. Skilled in extracting meaningful insights from textual data, enabling businesses to make data-driven decisions. Passionate about leveraging advanced techniques to understand and analyze sentiments effectively.*
    
