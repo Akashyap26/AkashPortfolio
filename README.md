@@ -4,6 +4,10 @@
   
   GitHub folder containing a computer vision project code and resources for image analysis, object detection, and visual recognition.
   
+<a href = "https://github.com/Akashyap26/LLM---Mcq-s-Generator"> MCQ's Generator using LLM <a>
+  
+  Github Repo containing code for extraction and creation of Mcq's Using large Language Model
+  
 <a href="https://github.com/Akashyap26/BrestCancerDetection"> BrestCancer Classification Model<a> 
   
 *In this study, my task is to classify tumors into malignant (cancerous) or benign (non-cancerous) using features obtained from several cell images.Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.*
