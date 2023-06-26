@@ -50,14 +50,10 @@ Oct 2019 - Nov 2021
 - Advance Excel, Python, and Visualization
 - Prepared Reports for Management Level on Quarterly, Month, and week
 
-### Network Support Engineer at CSS Corp,Chennai 
-Mar 2022 - Nov 2022
-- Worked on medium and Low priority issues on a palo alto firewall network Support engineer profile (US clients)
-- Palo Alto Project
 
 ## Education
 1. Bachelor of Computer Applications (BCA) from Seshdripuram College Bengaluru,2019
-2. Masters of Computer Applications from Jain University(online),Final Year - Expected Completeion Nov’23
+2. Masters of Computer Applications from Jain University(online), Bengaluru,2023
 
 
 
