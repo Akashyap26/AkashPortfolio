@@ -44,11 +44,13 @@
 <a href="files/GuviCertification - 6Z083E3T1kl56f0uL0.png"> Data Science from GUVI, Online<a>
 
 ## Work Experience
+
 ### Deep Learning Engineer - Intern at ResoluteAI Solutions
 June 2023 to Current
 - Prepare Custom Object Detections models as per requirements
 - Annotate Images for Detection
-- Work and learn About Cognitive neural networks and Preapre deep learning models
+- Work and Learn About Cognitive neural networks and prepare deep learning models
+
 ### IT Analyst at Atria Power, Bangalore
 Oct 2019 - Nov 2021
 - provided technical support for Our site level engineers Collaborated with teams to optimize the Availability of our Power Plants
